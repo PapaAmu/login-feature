@@ -1,15 +1,11 @@
 <x-layout title="Home">
 
     <x-slot:heading>
-        Home Page section
+        Vacancy Board
     </x-slot:heading>
     
-    <h1>Hello Home Page</h1>
-
-    <x-list>
-
-    </x-list>
-
+   
+   
 </x-layout>
 
 
